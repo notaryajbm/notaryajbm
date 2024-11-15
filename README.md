@@ -1,4 +1,4 @@
-```js
+```bash
       /\         arya@arch 
      /  \        OS: Arch Linux 
     /\   \       Packages: 976 
