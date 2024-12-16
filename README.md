@@ -20,7 +20,7 @@ Here are some of the technologies and tools I'm proficient in:
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=notarya01&show_icons=true&theme=onedark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=notarya01&show_icons=true&theme=onedark&hide_border=true)
 
 ## 🌐 Connect with Me
 
