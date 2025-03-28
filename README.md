@@ -1,4 +1,4 @@
-# Hey! 👋
+# Welcome to my GitHub profile! 👋
 **I'm Arya** - I'm someone who creates random, cool and useful stuff on the Internet. I fill my free time by playing a lot of video games.
 
 
