@@ -1,36 +1,17 @@
-# 👋 Hello, I'm Arya
+# Hey! 👋
+**I'm Arya** - I'm someone who creates random, cool and useful stuff on the Internet. I fill my free time by playing a lot of video games.
 
-Welcome to my GitHub profile! I'm a passionate Developer based in Iran. I love creating cool solutions and exploring new technologies.
 
-## 🌟 About Me
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/>
 
-- 🔭 I’m currently working on iForgor; A Minimalist Password Manager.
-- 👯 I’m looking to collaborate on cool projects.
-- 💬 Ask me about Linux.
-- 📫 How to reach me: notarya01 @ Discord.
-- ⚡ Fun fact: Fun Fact.
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 
-## 🛠️ Technologies & Tools
-
-Here are some of the technologies and tools I'm proficient in:
-
-- **Languages**: HTML, CSS, JavaScript, Python, Markdown
-- **Frameworks**: Next.js, React, Node.js
-- **Tools**: VS Code
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=notarya01&show_icons=true&theme=onedark&hide_border=true)
-
-## 🌐 Connect with Me
-
-- [Discord](https://twitter.com/yourprofile)
-- [Personal Website](https://soonm)
-
-## 🎉 Projects
-
-Here are some of my favorite projects:
-
-- **[Project 1](https://github.com/notarya01/OpenAsar-Installer)**: Simple OpenAsar Installer in the Terminal for Discord.
-
----
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=iamnotarya&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotarya&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
