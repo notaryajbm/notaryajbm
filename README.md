@@ -2,7 +2,7 @@
 **I'm Arya** - I'm someone who creates random, cool and useful stuff on the Internet. I fill my free time by playing a lot of video games.
 
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,next,react,figma,code)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,next,react,figma,vscode)](https://skillicons.dev)<br/>
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
